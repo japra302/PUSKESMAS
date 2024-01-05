@@ -1,0 +1,17 @@
+D:\Documents\Puskesmas\puskesmas\puskesmas\bin\Debug\net8.0-windows\puskesmas.exe
+D:\Documents\Puskesmas\puskesmas\puskesmas\bin\Debug\net8.0-windows\puskesmas.deps.json
+D:\Documents\Puskesmas\puskesmas\puskesmas\bin\Debug\net8.0-windows\puskesmas.runtimeconfig.json
+D:\Documents\Puskesmas\puskesmas\puskesmas\bin\Debug\net8.0-windows\puskesmas.dll
+D:\Documents\Puskesmas\puskesmas\puskesmas\bin\Debug\net8.0-windows\puskesmas.pdb
+D:\Documents\Puskesmas\puskesmas\puskesmas\obj\Debug\net8.0-windows\puskesmas.Form1.resources
+D:\Documents\Puskesmas\puskesmas\puskesmas\obj\Debug\net8.0-windows\puskesmas.Resources.resources
+D:\Documents\Puskesmas\puskesmas\puskesmas\obj\Debug\net8.0-windows\puskesmas.vbproj.GenerateResource.cache
+D:\Documents\Puskesmas\puskesmas\puskesmas\obj\Debug\net8.0-windows\puskesmas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Puskesmas\puskesmas\puskesmas\obj\Debug\net8.0-windows\puskesmas.AssemblyInfoInputs.cache
+D:\Documents\Puskesmas\puskesmas\puskesmas\obj\Debug\net8.0-windows\puskesmas.AssemblyInfo.vb
+D:\Documents\Puskesmas\puskesmas\puskesmas\obj\Debug\net8.0-windows\puskesmas.vbproj.CoreCompileInputs.cache
+D:\Documents\Puskesmas\puskesmas\puskesmas\obj\Debug\net8.0-windows\puskesmas.dll
+D:\Documents\Puskesmas\puskesmas\puskesmas\obj\Debug\net8.0-windows\refint\puskesmas.dll
+D:\Documents\Puskesmas\puskesmas\puskesmas\obj\Debug\net8.0-windows\puskesmas.pdb
+D:\Documents\Puskesmas\puskesmas\puskesmas\obj\Debug\net8.0-windows\puskesmas.genruntimeconfig.cache
+D:\Documents\Puskesmas\puskesmas\puskesmas\obj\Debug\net8.0-windows\ref\puskesmas.dll
